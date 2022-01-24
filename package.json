@@ -1,0 +1,28 @@
+{
+    "name": "kamra-js-deps",
+    "version": "0.0.1",
+    "description": "javascript lib dependencies required by Kamra CMS",
+    "license": "",
+    "repository": "https://gitlab.pilar.hu/internal/Kamra.git",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "latest",
+        "bootstrap": "5.1.3",
+        "codemirror": "^5.61.1",
+        "cropper": "latest",
+        "ekko-lightbox": "latest",
+        "html2canvas": "0.5.0-alpha1",
+        "ion-rangeslider": "2.2.0",
+        "jasmine-core": "~2.4.1",
+        "jquery": "~3.5.1",
+        "jscroll": "latest",
+        "karma": "^6.3.2",
+        "karma-jasmine": "~1.0.1",
+        "karma-phantomjs-launcher": "~1.0.1",
+        "owl.carousel": "latest",
+        "pc-bootstrap4-datetimepicker": "latest",
+        "popper.js": "latest",
+        "select2-bootstrap-5-theme": "latest",
+        "taggd": "latest",
+        "update": "^0.7.4"
+    }
+}
