@@ -15,12 +15,8 @@
         "jasmine-core": "~2.4.1",
         "jquery": "~3.5.1",
         "jscroll": "latest",
-        "karma": "^6.3.2",
-        "karma-jasmine": "~1.0.1",
-        "karma-phantomjs-launcher": "~1.0.1",
         "owl.carousel": "latest",
         "pc-bootstrap4-datetimepicker": "latest",
-        "popper.js": "latest",
         "select2-bootstrap-5-theme": "latest",
         "taggd": "latest",
         "update": "^0.7.4"
