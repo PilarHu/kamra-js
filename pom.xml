@@ -95,6 +95,13 @@
                                     </excludes>
                                 </resource>
                                 <resource>
+                                    <directory>node_modules/tinymce-emoji/dist</directory>
+                                    <filtering>false</filtering>
+                                    <excludes>
+                                        <exclude>**/*.map</exclude>
+                                    </excludes>
+                                </resource>
+                                <resource>
                                     <directory>node_modules/bootstrap/dist</directory>
                                     <filtering>false</filtering>
                                     <targetPath>bootstrap_latest</targetPath>

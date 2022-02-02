@@ -33,6 +33,8 @@ public final class Assets {
     public static final String SLIDER_CSS = "libs/slider/css/ion.rangeSlider.css";
     public static final String SLIDER_SKIN_CSS = "libs/slider/css/ion.rangeSlider.skinHTML5.css";
 
+    public static final String TINYMCE_EMOJI = "libs/tinymce-emoji/plugin.min.js";
+
     private Assets() {
         // hiding public constructor
     }
