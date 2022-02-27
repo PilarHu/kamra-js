@@ -7,7 +7,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "latest",
         "bootstrap": "5.1.3",
-        "codemirror": "^5.61.1",
+        "codemirror": "5.65.2",
         "cropper": "latest",
         "ekko-lightbox": "latest",
         "html2canvas": "0.5.0-alpha1",
