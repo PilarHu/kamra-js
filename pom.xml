@@ -144,6 +144,14 @@
                                     <filtering>false</filtering>
                                 </resource>
                                 <resource>
+                                    <directory>node_modules/tinymce/</directory>
+                                    <filtering>false</filtering>
+                                    <targetPath>tinymce</targetPath>
+                                    <excludes>
+                                        <exclude>**/*.map</exclude>
+                                    </excludes>
+                                </resource>
+                                <resource>
                                     <directory>node_modules/codemirror/</directory>
                                     <filtering>false</filtering>
                                     <targetPath>codemirror</targetPath>

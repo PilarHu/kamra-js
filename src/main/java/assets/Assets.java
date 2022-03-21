@@ -16,6 +16,7 @@ public final class Assets {
     public static final String BOOTSTRAP_DATETIMEPICKER_JS = "libs/js/bootstrap-datetimepicker.min.js";
     public static final String BOOTSTRAP_DATETIMEPICKER_CSS = "libs/css/bootstrap-datetimepicker.min.css";
     public static final String FA_CSS = "libs/css/all.min.css";
+    public static final String TINYMCE = "libs/tinymce/tinymce.min.js";
     public static final String CM_BASE = "libs/codemirror/";
     public static final String CM_JS = CM_BASE + "lib/codemirror.js";
     public static final String CM_CSS = CM_BASE + "lib/codemirror.css";
