@@ -152,6 +152,14 @@
                                     </excludes>
                                 </resource>
                                 <resource>
+                                    <directory>node_modules/tinymce-i18n/langs</directory>
+                                    <filtering>false</filtering>
+                                    <targetPath>tinymce/langs</targetPath>
+                                    <excludes>
+                                        <exclude>**/*.map</exclude>
+                                    </excludes>
+                                </resource>
+                                <resource>
                                     <directory>node_modules/codemirror/</directory>
                                     <filtering>false</filtering>
                                     <targetPath>codemirror</targetPath>

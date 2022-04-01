@@ -21,6 +21,7 @@
         "taggd": "latest",
         "tinymce": "4-latest",
         "tinymce-emoji": "latest",
+        "tinymce-i18n": "latest",
         "update": "^0.7.4"
     }
 }
