@@ -11,7 +11,7 @@
         <repository>
             <id>github</id>
             <name>GitHub OWNER Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/PilarHu/kamra-js-deps</url>
+            <url>https://maven.pkg.github.com/PilarHu/kamra-js</url>
         </repository>
     </distributionManagement>
     <build>
