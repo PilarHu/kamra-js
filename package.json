@@ -17,6 +17,7 @@
         "jscroll": "latest",
         "owl.carousel": "latest",
         "pc-bootstrap4-datetimepicker": "latest",
+        "select2": "4.1.0-rc.0",
         "select2-bootstrap-5-theme": "latest",
         "taggd": "latest",
         "tinymce": "4-latest",

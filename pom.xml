@@ -140,6 +140,11 @@
                                     <filtering>false</filtering>
                                 </resource>
                                 <resource>
+                                    <directory>node_modules/select2/dist</directory>
+                                    <filtering>false</filtering>
+                                    <targetPath>select2</targetPath>
+                                </resource>
+                                <resource>
                                     <directory>node_modules/select2-bootstrap-5-theme/dist</directory>
                                     <filtering>false</filtering>
                                 </resource>

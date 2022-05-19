@@ -36,6 +36,10 @@ public final class Assets {
 
     public static final String TINYMCE_EMOJI = "libs/tinymce-emoji/plugin.min.js";
 
+    public static final String SELECT2_CSS = "libs/select2/css/select2.min.css";
+    public static final String SELECT2_JS = "libs/select2/js/select2.full.min.js";
+    public static final String SELECT2_I18N = "libs/select2/js/i18n/%s.js";
+
     private Assets() {
         // hiding public constructor
     }
