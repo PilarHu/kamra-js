@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <artifactId>kamra-js-deps</artifactId>
     <packaging>jar</packaging>
     <name>Kamra Javascript dependencies</name>
     <groupId>hu.pilar</groupId>
-    <version>2022.07.01-SNAPSHOT</version>
+    <version>2022.07.01</version>
     <scm>
         <connection>scm:git:git@github.com:PilarHu/kamra-js.git</connection>
         <developerConnection>scm:git:git@github.com:PilarHu/kamra-js.git</developerConnection>
         <url>https://github.com/PilarHu/kamra-js</url>
-        <tag>HEAD</tag>
+        <tag>kamra-js-deps-2022.07.01</tag>
     </scm>
     <distributionManagement>
         <repository>
