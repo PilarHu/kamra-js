@@ -7,6 +7,12 @@
     <name>Kamra Javascript dependencies</name>
     <groupId>hu.pilar</groupId>
     <version>2022.07.01-SNAPSHOT</version>
+    <scm>
+        <connection>scm:git:git@github.com:PilarHu/kamra-js.git</connection>
+        <developerConnection>scm:git:git@github.com:PilarHu/kamra-js.git</developerConnection>
+        <url>https://github.com/PilarHu/kamra-js</url>
+        <tag>HEAD</tag>
+    </scm>
     <distributionManagement>
         <repository>
             <id>pilar</id>
