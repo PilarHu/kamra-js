@@ -9,7 +9,7 @@ pipeline {
         when { not { branch 'master' } }
         steps {
 		  withMaven(maven: 'maven3', mavenSettingsConfig: '00e92796-3fa4-4c0f-b4ee-fa441532f2f0', jdk: 'JDK17') {
-	        sh 'mvn -B clean verify install'
+	        sh 'mvn -B clean verify'
           }
         }
 	    post {
@@ -23,7 +23,7 @@ pipeline {
         steps {
           withSonarQubeEnv('Pilar Sonar') {
 	  	    withMaven(maven: 'maven3', mavenSettingsConfig: '00e92796-3fa4-4c0f-b4ee-fa441532f2f0', jdk: 'JDK17') {
-	          sh 'mvn -B clean verify install sonar:sonar deploy'
+	          sh 'mvn -B clean verify sonar:sonar install'
             }
           }
         }
