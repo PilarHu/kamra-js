@@ -11,17 +11,7 @@
         <developerConnection>scm:git:git@github.com:PilarHu/kamra-js.git</developerConnection>
         <url>https://github.com/PilarHu/kamra-js</url>
         <tag>HEAD</tag>
-    </scm>
-    <distributionManagement>
-        <repository>
-            <id>pilar</id>
-            <url>https://internal.pilar.hu/nexus/repository/maven-releases/</url>
-        </repository>
-        <snapshotRepository>
-            <id>pilar-snapshots</id>
-            <url>https://internal.pilar.hu/nexus/repository/maven-snapshots</url>
-        </snapshotRepository>
-    </distributionManagement>
+    </scm> 
     <build>
         <plugins>
             <plugin>
