@@ -23,8 +23,7 @@ public final class Assets {
     public static final String CM_MODES = CM_BASE + "mode/";
     public static final String CM_MODE_XML = CM_MODES + "xml/xml.js";
     public static final String CM_MODE_CSS = CM_MODES + "css/css.js";
-    public static final String LIGTHBOX_JS = "libs/ekko-lightbox/ekko-lightbox.min.js";
-    public static final String LIGHTBOX_CSS = "libs/ekko-lightbox/ekko-lightbox.css";
+    public static final String LIGTHBOX_JS = "libs/bs5-lightbox/index.bundle.min.js";
     public static final String MINDMAPMASTER_JS = "js-mindmap-master/js-mindmap.js";
     public static final String MINDMAPMASTER_CSS = "js-mindmap-master/js-mindmap.css";
     public static final String HTML2CANVAS_JS = "libs/html2canvas.min.js";

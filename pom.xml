@@ -168,9 +168,9 @@
                                     </excludes>
                                 </resource>
                                 <resource>
-                                    <directory>node_modules/ekko-lightbox/dist</directory>
+                                    <directory>node_modules/bs5-lightbox/dist</directory>
                                     <filtering>false</filtering>
-                                    <targetPath>ekko-lightbox</targetPath>
+                                    <targetPath>bs5-lightbox</targetPath>
                                     <excludes>
                                         <exclude>**/*.map</exclude>
                                     </excludes>
