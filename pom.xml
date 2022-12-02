@@ -5,12 +5,12 @@
     <packaging>jar</packaging>
     <name>Kamra Javascript dependencies</name>
     <groupId>hu.pilar</groupId>
-    <version>2022.11.08-SNAPSHOT</version>
+    <version>2022.11.08</version>
     <scm>
         <connection>scm:git:git@github.com:PilarHu/kamra-js.git</connection>
         <developerConnection>scm:git:git@github.com:PilarHu/kamra-js.git</developerConnection>
         <url>https://github.com/PilarHu/kamra-js</url>
-        <tag>HEAD</tag>
+        <tag>kamra-js-deps-2022.11.08</tag>
     </scm> 
     <build>
         <plugins>
