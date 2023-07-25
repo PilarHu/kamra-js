@@ -6,9 +6,9 @@
     "repository": "https://gitlab.pilar.hu/internal/Kamra.git",
     "dependencies": {
         "@fortawesome/fontawesome-free": "latest",
-        "bootstrap": "5.2.3",
+        "bootstrap": "5.3.0",
         "bs5-lightbox": "latest",
-        "codemirror": "5.65.10",
+        "codemirror": "5.65.14",
         "cropper": "latest",
         "html2canvas": "1.4.1",
         "ion-rangeslider": "2.3.1",
