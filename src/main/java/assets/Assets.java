@@ -2,10 +2,6 @@ package assets;
 
 public final class Assets {
 
-  public static ResourceReference kamraJsAsset(final String path) {
-    return new PackageResourceReference(Assets.class, path);
-  }
-
   public static final String MOMENT_JS = "libs/moment-with-locales.min.js";
   public static final String JSCROLL_JS = "libs/jquery.jscroll.js";
   public static final String CROPPER_JS = "libs/cropper.min.js";
