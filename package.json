@@ -5,10 +5,11 @@
     "license": "",
     "repository": "https://gitlab.pilar.hu/internal/Kamra.git",
     "dependencies": {
+        "@devhau/md-editor": "latest",
         "@fortawesome/fontawesome-free": "latest",
-        "bootstrap": "5.3.0",
+        "bootstrap": "5.3.3",
         "bs5-lightbox": "latest",
-        "codemirror": "5.65.14",
+        "codemirror": "5.65.16",
         "cropper": "latest",
         "html2canvas": "1.4.1",
         "ion-rangeslider": "2.3.1",
