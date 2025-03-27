@@ -117,6 +117,13 @@
                                     <filtering>false</filtering>
                                 </resource>
                                 <resource>
+                                    <directory>node_modules/acc_toolbar/acctoolbar</directory>
+                                    <filtering>false</filtering>
+                                    <includes>
+                                        <include>*.js</include>
+                                    </includes>
+                                </resource>
+                                <resource>
                                     <directory>node_modules/pc-bootstrap4-datetimepicker/build/</directory>
                                     <filtering>false</filtering>
                                 </resource>

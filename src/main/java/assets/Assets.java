@@ -42,6 +42,7 @@ public final class Assets {
   public static final String SELECT2_I18N = "libs/select2/js/i18n/%s.js";
   public static final String EDITOR_MD_CSS = "libs/md-editor.min.css";
   public static final String EDITOR_MD_JS = "libs/md-editor.min.js";
+  public static final String ACC_TOOLBAR_JS = "libs/acctoolbar.min.js";
 
   private Assets() {
     // hiding public constructor
