@@ -18,11 +18,11 @@ pipeline {
          }
         }
       }
-      stage('Compile, test, sonar, deploy') {
+      stage('Compile, test, deploy') {
         when { branch 'master' }
         steps {
 	  	    withMaven(maven: 'maven3', mavenSettingsConfig: '00e92796-3fa4-4c0f-b4ee-fa441532f2f0', jdk: 'JDK23') {
-	          sh 'mvn -B clean verify install'
+              sh 'mvn -e -X -DbuildRevision=$(date +%Y).$(date +%m).${BUILD_NUMBER} -B clean verify install deploy'
             }
         }
 	    post {
