@@ -5,7 +5,7 @@
    <packaging>jar</packaging>
    <name>Kamra Javascript dependencies</name>
    <groupId>hu.pilar</groupId>
-   <version>${buildRevision}</version>
+   <version>${revision}</version>
    <scm>
       <connection>scm:git:git@github.com:PilarHu/kamra-js.git</connection>
       <developerConnection>scm:git:git@github.com:PilarHu/kamra-js.git</developerConnection>
@@ -19,7 +19,7 @@
       </repository>
    </distributionManagement>
    <properties>
-      <buildRevision>1.0-SNAPSHOT</buildRevision>
+      <revision>1.0-SNAPSHOT</revision>
    </properties>
 
    <build>
