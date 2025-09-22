@@ -44,7 +44,7 @@ public final class Assets {
   public static final String MINDMAPMASTER_CSS = "js-mindmap-master/js-mindmap.css";
   public static final String HTML2CANVAS_JS = "libs/html2canvas.min.js";
   public static final String TAGGD_JS = "libs/taggd.min.js";
-  public static final String POPPER_JS = "libs/popper-js/popper.js";
+  public static final String POPPER_JS = "libs/popper-js/popper.min.js";
   public static final String TAGGD_CSS = "libs/taggd.css";
   public static final String SLIDER_JS = "libs/slider/js/ion.rangeSlider.min.js";
   public static final String SLIDER_CSS = "libs/slider/css/ion.rangeSlider.css";

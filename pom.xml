@@ -192,7 +192,7 @@
                            </excludes>
                         </resource>
                         <resource>
-                           <directory>node_modules/@popperjs/core/dist/cjs</directory>
+                           <directory>node_modules/@popperjs/core/dist/umd</directory>
                            <filtering>false</filtering>
                            <targetPath>popper-js</targetPath>
                            <excludes>
