@@ -14,9 +14,9 @@ public final class Assets {
   public static final String BOOTSTRAP_CSS = BOOTSTRAP_BASE + "css/bootstrap.min.css";
   public static final String BOOTSTRAP_SELECT2_CSS = "libs/select2-bootstrap-5-theme.min.css";
   public static final String BOOTSTRAP_DATETIMEPICKER_JS =
-      "libs/js/bootstrap-datetimepicker.min.js";
+      "libs/js/tempus-dominus.min.js";
   public static final String BOOTSTRAP_DATETIMEPICKER_CSS =
-      "libs/css/bootstrap-datetimepicker.min.css";
+      "libs/css/tempus-dominus.min.css";
   public static final String FA_CSS = "libs/css/all.min.css";
   public static final String TINYMCE = "libs/tinymce/tinymce.min.js";
   public static final String CM_BASE = "libs/codemirror/";

@@ -129,7 +129,7 @@
                            </includes>
                         </resource>
                         <resource>
-                           <directory>node_modules/pc-bootstrap4-datetimepicker/build/</directory>
+                           <directory>node_modules/@eonasdan/tempus-dominus/dist/</directory>
                            <filtering>false</filtering>
                         </resource>
                         <resource>

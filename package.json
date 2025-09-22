@@ -6,6 +6,7 @@
     "repository": "https://gitlab.pilar.hu/internal/Kamra.git",
     "dependencies": {
         "@devhau/md-editor": "latest",
+        "@eonasdan/tempus-dominus": "latest",
         "@fortawesome/fontawesome-free": "latest",
         "acc_toolbar": "PilarHu/acc_toolbar",
         "bootstrap": "5.3.3",
@@ -18,7 +19,6 @@
         "jquery": "~3.6.1",
         "jscroll": "latest",
         "owl.carousel": "latest",
-        "pc-bootstrap4-datetimepicker": "latest",
         "select2": "4.1.0-rc.0",
         "select2-bootstrap-5-theme": "latest",
         "taggd": "latest",
