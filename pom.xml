@@ -192,13 +192,12 @@
                            </excludes>
                         </resource>
                         <resource>
-                           <directory>node_modules/popper.js/dist</directory>
+                           <directory>node_modules/@popperjs/core/dist/cjs</directory>
                            <filtering>false</filtering>
                            <targetPath>popper-js</targetPath>
                            <excludes>
                               <exclude>**/*.map</exclude>
                            </excludes>
-
                         </resource>
                         <resource>
                            <directory>node_modules/ion-rangeslider</directory>

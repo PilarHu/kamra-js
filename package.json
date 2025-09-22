@@ -8,6 +8,7 @@
         "@devhau/md-editor": "latest",
         "@eonasdan/tempus-dominus": "latest",
         "@fortawesome/fontawesome-free": "latest",
+        "@popperjs/core": "latest",
         "acc_toolbar": "PilarHu/acc_toolbar",
         "bootstrap": "5.3.3",
         "bs5-lightbox": "latest",
