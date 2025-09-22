@@ -1,5 +1,5 @@
-const name = 'hu';
-
+(function(g,f){typeof exports==='object'&&typeof module!=='undefined'?f(exports):typeof define==='function'&&define.amd?define(['exports'],f):(g=typeof globalThis!=='undefined'?globalThis:g||self,f((g.tempusDominus=g.tempusDominus||{},g.tempusDominus.locales=g.tempusDominus.locales||{},g.tempusDominus.locales.hu={})));})(this,(function(exports) {
+'use strict';const name = 'hu';
 const localization = {
   today: 'Ma',
   clear: 'Törlés',
@@ -41,5 +41,4 @@ const localization = {
   ordinal: (n) => `${n}.`,
   format: 'L LT',
 };
-
-export { localization, name };
+exports.localization=localization;exports.name=name;Object.defineProperty(exports,'__esModule',{value:true});}));
