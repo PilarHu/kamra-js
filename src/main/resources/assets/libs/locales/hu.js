@@ -39,6 +39,6 @@ const localization = {
     LLLL: 'yyyy. MMMM dd. HH:mm:ss',
   },
   ordinal: (n) => `${n}.`,
-  format: 'L LT',
+  format: 'LL LT',
 };
 exports.localization=localization;exports.name=name;Object.defineProperty(exports,'__esModule',{value:true});}));
